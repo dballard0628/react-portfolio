@@ -3,10 +3,11 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Nav from './components/Nav';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import Home from './pages/Home'; // Import Home component
-import About from './pages/About';
+import Home from './pages/Home'; 
+import Advice from './pages/Advice';
 import Contact from './pages/contactme';
-import GitHub from './pages/Github'; // Make sure the filename is exactly "GitHub.jsx"
+import Blog from './pages/Blog'; 
+import Projects from './pages/Projects';
 
 
 
@@ -16,9 +17,10 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} /> {/* Home route */}
-        <Route path="/about" element={<About />} />
+        <Route path="/advice" element={<Advice />} />
         <Route path="/contactme" element={<Contact />} />
-        <Route path="/github" element={<GitHub />} /> 
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/projects" element={<Projects />} />
       </Routes>
       <Footer />
     </Router>
