@@ -5,7 +5,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home'; 
 import Advice from './pages/Advice';
-import Contact from './pages/contactme';
+import Contact from '/src/pages/contactme';
 import Blog from './pages/Blog'; 
 import Projects from './pages/Projects';
 
