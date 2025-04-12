@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-// Assuming your CSS is in App.css or already globally applied
+
 
 function Blog() {
   return (

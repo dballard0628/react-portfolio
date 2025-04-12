@@ -7,6 +7,13 @@
 }
 
 
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+
 body {
   background-color: var(--misty-rose);
   color: var(--eggplant);
@@ -37,6 +44,13 @@ h1, h2, h3 {
   z-index: 1000;
 }
 
+.home-title {
+  font-family: 'Baloo 2', cursive;
+  font-size: 5rem;   /* Increase the font size */
+  text-align: center;  /* Center the text horizontally */
+  margin: 0;
+  padding: 0;
+}
 
 .button {
   background-color: var(--rosy-brown);
@@ -102,7 +116,7 @@ h1, h2, h3 {
   height: 450px;
   border-radius: 80%; 
   margin-top: 2rem;
-  box-shadow: 0 2px 6px rgb(164, 140, 152); 
+  box-shadow: 0 8px 8px rgba(48, 2, 52, 0.341); 
   
 }
 input, textarea {
@@ -145,20 +159,20 @@ body {
   color: var(--eggplant);
 }
 .page-wrapper {
-  display: flex; 
-  flex-direction: column;        
-  justify-content: space-evenly;      
-  align-items: center;           
-  min-height: 100vh;             
+  display: flex;
+  justify-content: center;     /* Horizontal centering */
+  align-items: center;         /* Vertical centering */
+  flex-direction: column;
+  min-height: 100vh;           /* Full viewport height */
   padding: 2rem;
   box-sizing: border-box;
-  text-align: center;     
 }
 
+
 .contact-container {
-  max-width: 800px;
-  width: 90%;
-  margin: 2rem auto 10rem auto;
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
   padding: 2rem;
   background: var(--dun);
   border-radius: 16px;
