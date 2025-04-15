@@ -1,12 +1,44 @@
-# React + Vite
+# 🌐 Danah Ballard's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio! This project showcases my journey as a full stack web developer and highlights the projects, skills, and passions that drive my work.
 
-Currently, two official plugins are available:
+## 🧠 Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This portfolio is built using **React** and styled with **custom CSS**, emphasizing elegance and usability. It features:
 
-## Expanding the ESLint configuration
+- ✨ A sleek and responsive layout
+- 🖼️ Highlighted projects with descriptions and GitHub links
+- 📬 A contact form for easy communication
+- 📢 An advice/suggestions page to gather feedback
+- 📚 A dedicated resume page with my experience and technical skills
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Deployed with **Render** for fast and reliable performance.
+
+---
+
+## 🚀 Live Site
+
+👉 [View Live Portfolio](https://react-portfolio-8exl.onrender.com/
+
+---
+
+## 📸 Screenshot
+
+![Screenshot of the Portfolio]
+
+
+
+---
+
+## 🛠️ Technologies Used
+
+- React (with Vite)
+- JavaScript (ES6+)
+- CSS (custom styles)
+- React Router
+- Render (deployment)
+
+---
+
+## 📁 Project Structure
+

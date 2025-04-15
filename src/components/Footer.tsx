@@ -18,7 +18,7 @@ const Footer = () => {
                         <Link to="/advice" className="home-button">Advice</Link>
                         <Link to="/projects" className="home-button">Projects</Link>
                         <Link to="/contactme" className="home-button">Contact</Link>
-                        <Link to="/blog" className="home-button">Blog</Link>
+                        <Link to="/resume" className="home-button">Resume</Link>
                     {/* </div> */}
                 {/* </div> */}
             </footer >
