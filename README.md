@@ -25,7 +25,7 @@ Deployed with **Render** for fast and reliable performance.
 ## 📸 Screenshot
 
 ![Screenshot of the Portfolio]
-
+![alt text](<Screenshot 2025-04-14 at 8.36.24 PM.png>)
 
 
 ---
